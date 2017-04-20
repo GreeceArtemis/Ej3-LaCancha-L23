@@ -20,7 +20,7 @@
   background-color: white;
 }
 #c1{
-  left:410px;
+  left:360px;
   top:80px;
 }
 .arco1{
@@ -32,5 +32,28 @@
 }
 #a1{
   top:100px;
-  left: 0;
+  left: -2px;
+}
+#a2{
+  top:100px;
+  right: -2px;
+}
+#c2{
+  right: -15px;
+    top: -2px;
+}
+#c3{
+  bottom: 0;
+  left: -32px;
+}
+.centro{
+  position: absolute;
+  left: 335px;
+  top: 135px;
+  width: 150px;
+  height:150px;
+  background-color: #8EB27F;
+  border: 2px solid white;
+  border-radius: 50%;
+
 }
